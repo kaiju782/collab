@@ -56,4 +56,3 @@ public class Emp {
 		this.comm = comm;
 		this.dept = dept;
 	}
-}
